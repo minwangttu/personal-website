@@ -1,7 +1,7 @@
 <BODY><h2>Current Position</h2> 
  <p>Associate Professor of Statistics</a></p>
  <p><a href="https://business.utsa.edu/management-science-statistics/">Department of Management Science and Statistics</a></p>
- <p>The University of Texas at San Antonio</p>
+ <p><a href="https://www.utsa.edu/">The University of Texas at San Antonio</a></p>
     
 <BODY><h2>Education</h2>
  <LI> Ph.D in Statistics, <A href="http://www.clemson.edu/">Clemson University</A> 

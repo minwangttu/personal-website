@@ -1,9 +1,7 @@
-<BODY><h2>Current Position</h2><UL> 
+<BODY><h2>Current Position</h2> 
   <LI> Associate Professor of Management Science and Statistics
-
-<p align="center">
-<h2>Education</h2>
- </p> 
+    
+<BODY><h2>Education</h2>
   <LI> Ph.D in Statistics, <A href="http://www.clemson.edu/">Clemson University</A> 
   <LI> M.S. in Statistics, <A href="http://www.clemson.edu/">Clemson University</A> 
   <LI> B.A. in Mathematics and Statistics, <A href="https://www.concordia.ca/">Concordia University</A> 

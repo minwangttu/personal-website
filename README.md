@@ -1,6 +1,6 @@
 <BODY><h2>Current Position</h2> 
- <p>Associate Professor of Statistics</p>
- <p>Department of Management Science and Statistics</p>
+ <p>Associate Professor of Statistics</a></p>
+ <p>Department of Management Science and Statistics</a></p>
  <p>The University of Texas at Aan Antonio</p>
     
 <BODY><h2>Education</h2>
